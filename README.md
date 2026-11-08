@@ -48,6 +48,7 @@ online content sources.**
 </div>
 
 <div align="left">
+    
 ### Supported Platforms
 
 - 📌 Linux
