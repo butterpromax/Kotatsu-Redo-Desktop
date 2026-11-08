@@ -14,7 +14,7 @@ online content sources.**
 -   Opt-in community features: comments and ratings on manga, plus shared source reliability that ranks search, Explore and the source catalog, with 🔥 on the most popular sources. No email or password, just a device key you can back up
 -   Find the same manga on other sources and migrate your progress with Alternatives
 -   Favorites in custom categories, reading history, bookmarks and incognito mode
--   Four reader modes: standard, right-to-left, vertical and Webtoon. Adjustable zoom, gaps, cropping, gestures, volume-key paging and an e-ink mode
+-   Four reader modes: standard, right-to-left, vertical and Webtoon. Adjustable zoom, gaps, cropping, gestures, and an e-ink mode
 -   New chapter checks with an updates feed, optional auto-download of new chapters, and recommendations with genre filters
 -   Download manga to read offline (CBZ or folders) and open your own CBZ/ZIP archives
 -   Sync favorites and history across devices, using your own sync server if you like
@@ -23,9 +23,6 @@ online content sources.**
 -   Reading statistics and reading time estimates
 -   Home screen widgets for recent manga and your shelf
 -   Network tools: proxy, DNS over HTTPS, image proxy and built-in CloudFlare handling
--   Password or fingerprint lock and screenshot protection
--   Material You design for phones, tablets and desktop, with a pure black dark theme
--   Supports Android 6.0 and newer
 
 </div>
 
