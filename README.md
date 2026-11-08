@@ -50,6 +50,7 @@ online content sources.**
 ### Supported Platforms
 
 **📌 Linux**
+
 **📌 Windows(coming soon)**
 
 ### Contributing
