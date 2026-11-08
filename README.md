@@ -47,7 +47,7 @@ online content sources.**
     <img src="./metadata/en-US/images/tenInchScreenshots/2.png" alt="Tablet view" width="400"/>
 </div>
 
-<div align="center">
+<div align="left">
 ### Supported Platforms
 
 - 📌 Linux
@@ -55,7 +55,7 @@ online content sources.**
 
 ### Contributing
 
-- 📌 Contributing is closed for the time period**
+- 📌 Contributing is closed for the time period
 
 </div>
 
