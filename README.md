@@ -1,7 +1,7 @@
 <div align="center">
 
 **[Kotatsu-Redo Desktop](https://github.com/butterpromax/Kotatsu-Redo-Desktop) is a free and open-source manga reader for Desktop with built-in
-online content sources. The main goal of the fork is to make the best reading manga app.**
+online content sources.**
 
 ![Linux](https://img.shields.io/badge/Linux-X86_64-brightgreen) [![Discord](https://img.shields.io/discord/898363402467045416?color=5865f2&label=discord)](https://discord.gg/sfPJSQNxfW) [![License](https://img.shields.io/github/license/KotatsuApp/Kotatsu)](https://github.com/KotatsuApp/Kotatsu/blob/devel/LICENSE)
 
@@ -47,10 +47,14 @@ online content sources. The main goal of the fork is to make the best reading ma
     <img src="./metadata/en-US/images/tenInchScreenshots/2.png" alt="Tablet view" width="400"/>
 </div>
 
+### Supported Platforms
+
+**📌 Linux**
+**📌 Windows(coming soon)**
+
 ### Contributing
 
-**📌 Pull requests are welcome, if you want:
-See [CONTRIBUTING.md](https://github.com/Kotatsu-Redo/Kotatsu-Redo/blob/devel/CONTRIBUTING.md) for the guidelines**
+**📌 Contributing is closed for the time period**
 
 ### Certificate fingerprints
 
