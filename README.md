@@ -47,15 +47,17 @@ online content sources.**
     <img src="./metadata/en-US/images/tenInchScreenshots/2.png" alt="Tablet view" width="400"/>
 </div>
 
+<div align="center">
 ### Supported Platforms
 
-**📌 Linux**
-
-**📌 Windows(coming soon)**
+- 📌 Linux
+- 📌 Windows(coming soon)
 
 ### Contributing
 
-**📌 Contributing is closed for the time period**
+- 📌 Contributing is closed for the time period**
+
+</div>
 
 ### Certificate fingerprints
 
